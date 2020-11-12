@@ -11,8 +11,7 @@ router.get('/', function(req, res, next) {
 router.post('/comments', async (req, res, next) => {
   try {
     const comment = await Comment.create({
-      commenter: req.body.id,
-      comment: req.body.comment,
+      // 여기를 채워보세요 ~
     });
     console.log(comment);
     res.status(200).json(comment);
