@@ -1,0 +1,8 @@
+insert into study.users (name, age) values ('류세화', 23);
+insert into study.users (name, age) values ('양재욱', 23);
+insert into study.users (name, age) values ('신지혜', 23);
+insert into study.users (name, age) values ('이수진', 23);
+insert into study.users (name, age) values ('김수현', 25);
+insert into study.users (name, age) values ('신연상', 23);
+insert into study.users (name, age) values ('송정우', 23);
+insert into study.users (name, age) values ('윤가영', 21);
